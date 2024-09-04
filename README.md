@@ -1,4 +1,4 @@
-## Hi there 👋
+## 你好 👋
 这个库只是我随便创建的一个库，这里啥也没有
 <!--
 **Liuli-Lumine/Liuli-Lumine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
